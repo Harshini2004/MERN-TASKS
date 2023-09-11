@@ -1,0 +1,51 @@
+h4{
+    margin:80px;
+    margin-bottom:25px;
+    margin-left:90px;
+}
+table{
+    border-collapse:collapse;
+    width:180px;
+    margin-left:80px;
+    height: 190px;
+}
+ul{
+    list-style-type: none;
+    width:150px;
+    background-color: skyblue ;
+    margin:0px;
+    padding:0px;
+    margin-left:10px;
+    margin-right:10px;
+}
+li a{
+    color:darkblue;
+    text-decoration:none;
+    padding:8px 16px;
+    display:block;
+}
+li a.active{
+    background:orange;
+    color:white;
+}
+ull{
+  margin: 0;
+  padding: 0;
+}
+div a{
+    display: block;
+    color: darkblue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border:black;
+    background-color:lightgray;
+}
+div a{
+    float: left;
+    border-right:1px solid darkblue;
+}
+.act{
+    background:gray;
+    color: white;
+}
